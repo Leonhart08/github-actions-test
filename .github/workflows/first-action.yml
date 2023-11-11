@@ -7,4 +7,4 @@ jobs:
       - name: Print guessing
         run: echo "Hello World!"
       - name: Print goodbye
-      - run: Goodbye!
+        run: Goodbye!
